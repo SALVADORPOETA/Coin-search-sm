@@ -108,7 +108,7 @@ const Coin = () => {
       <div>
         <div className='coin-container'>
           <div className='content'>
-            We couldn't find information for this coin. Pleas try another one.
+            We couldn't find information for this coin. Please try another one.
           </div>
         </div>
       </div>
